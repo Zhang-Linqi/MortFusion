@@ -46,6 +46,12 @@ A mortality prediction model under an integrated framework that comprehensively 
     - GCN 结构特征
     - 正余弦位置编码
 
+- **青骏杯数据 finetuning**
+  利用青骏杯提供的行业数据，微调预训练得到的基座大模型。
+  
+![整体架构](fig1.png)
+
+
 ---
 
 ##  快速开始
